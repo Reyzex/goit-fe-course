@@ -42,6 +42,8 @@ body {
 
 .main-content{
   padding: 0 150px;
+  max-width: 1170px;
+  margin: auto;
 }
 
 .content-section {
@@ -55,8 +57,8 @@ body {
   width: 420px;
   vertical-align: top;
   text-align: left;
-  padding-right: 56px;
-  padding-bottom: 114px;
+  margin-right: 56px;
+  margin-bottom: 114px;
 }
 
 
