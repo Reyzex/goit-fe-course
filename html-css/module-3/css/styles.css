@@ -1,4 +1,9 @@
+* {
+  margin: 0;
+}
+
 body {
+  margin: 0 auto;
   font-family: "Playfair Display", sans-serif;
   color: #626262;
   font-size: 14px;
@@ -40,19 +45,18 @@ body {
 }
 
 .content-section {
-  width: 1200px;
   margin-bottom: 37px;
   text-align: center;
 }
 
 .content-item {
+  margin: 0 auto;
   display: inline-block;
-  height: 495px;
   width: 420px;
   vertical-align: top;
   text-align: left;
-  margin-right: 56px;
-  margin-bottom: 114px;
+  padding-right: 56px;
+  padding-bottom: 114px;
 }
 
 
