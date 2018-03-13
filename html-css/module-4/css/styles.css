@@ -90,6 +90,9 @@ h2::after {
   margin-top: 20px;
 }
 
+img{
+    display: block;
+}
 .product-item{
     width: 255px;
     float: left;
